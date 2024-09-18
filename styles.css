@@ -1,4 +1,18 @@
+
 * {
   background-color: lightblue;
+}
+
+.body {
+  width: 100%;
+  margin: 0;
+}
+
+.button {
+  color: burlywood;
+}
+
+.navbar {
+  background-color: blueviolet;
 }
 
